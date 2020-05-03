@@ -1,0 +1,45 @@
+  
+body {
+	margin: 0;
+}
+
+ul {
+	list-style-type: none;
+	background-color:black;
+	margin: 0;
+	padding: 0px;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	text-decoration: none;
+	  color:white; 
+	padding: 15px 18px;
+	text-align: center;
+	display: block;
+}
+ 
+
+li a:visited {
+	color: white;
+	 
+}
+
+li a:hover {
+	 
+	 color: black;
+	background-color: white; 
+}
+
+li a:active {
+	/* background-color: white;
+	color: white; */
+}
+
+
+
+ 
